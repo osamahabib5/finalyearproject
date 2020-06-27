@@ -1,0 +1,5 @@
+Configuring credentials for harrysid98 in project Diamond
+Google Certificate Fingerprint:     BA:86:F1:91:BB:64:90:A3:FC:2B:45:07:2B:8B:DD:AB:23:DD:12:BF
+Google Certificate Hash (SHA-1):    BA86F191BB6490A3FC2B45072B8BDDAB23DD12BF
+Google Certificate Hash (SHA-256):  80CF94AD06F07CD076F37E762A3F01643F3B9E027AC1C68B3430D44670849481
+Facebook Key Hash:                  uobxkbtkkKP8K0UHK4vdqyPdEr8=
