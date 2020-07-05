@@ -7,7 +7,7 @@ const RecommendationScreen = () => {
       <View style={styles.container}>
 
         <View style={styles.diamond}>
-          <Image source={require('./Images/splash_modified.png')}
+          <Image source={require('./LogoImage/splash_modified.png')}
             style={{
               width: 80,
               height: 80
